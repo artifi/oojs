@@ -1,5 +1,12 @@
-Basic Class implementation
+Basic experimental Class implementation
 ===
+
+This implementation is compatibile [Mootools](http://mootools.net/) Class definition style. 
+No supportfor Mutators and other stuff.
+
+Mostly it should be considered as an experiment.
+If you realy want to write fastest posible OOP Javascript - then consider using native prototype programming (Object.create etc.). 
+
 
 ### Example usage:
 
